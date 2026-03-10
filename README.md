@@ -17,9 +17,7 @@ A real-world SQL portfolio project based on Zepto’s e-commerce inventory datas
 - Top 5 categories with highest average discounts
 - Price per gram → value-for-money analysis
 - Inventory weight grouped by category
-🛠️ How to Use
-git clone https://github.com/amlanmohanty/zepto-SQL-data-analysis-project.git
-cd zepto-SQL-data-analysis-project
+
 
 
 - Run zepto_SQL_data_analysis.sql in PostgreSQL (pgAdmin or any client)
